@@ -1,0 +1,27 @@
+
+input,textarea{
+    background-color:#34A0A9;
+    border: 1px solid rgba(0,0,0,0);
+    color: #fff;
+    cursor: pointer;
+    line-height: 1;
+    margin-bottom: 8px;
+    padding: 15px;
+    color:white;
+}
+
+button{
+    background-color: #85DE92;
+    color:white;
+    padding: 10px;
+}
+::placeholder{
+    color:rgb(41, 104, 95);
+}
+
+body{
+    background-image:url("../img/paint.png");
+    background-size:cover;
+    background-position: center;
+    background-attachment: fixed;
+}
